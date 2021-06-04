@@ -1,0 +1,24 @@
+[
+    {
+        "address":"jp.e23.io",
+        "flow":"xtls-rprx-direct",
+        "host":"jp.e23.io",
+        "id":"c9f1deb5-2cc7-4698-ad26-a1ad541b0ec6",
+        "port":443,
+        "protocol":"vless",
+        "ps":"BWGJP",
+        "sni":"jp.e23.io",
+        "tls":"xtls"
+    },
+    {
+        "address":"cg.e23.io",
+        "flow":"xtls-rprx-direct",
+        "host":"cg.e23.io",
+        "id":"c9f1deb5-2cc7-4698-ad26-a1ad541b0ec6",
+        "port":443,
+        "protocol":"vless",
+        "ps":"BWGCG",
+        "sni":"cg.e23.io",
+        "tls":"xtls"
+    }
+]
